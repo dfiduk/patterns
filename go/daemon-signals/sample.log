@@ -1,0 +1,187 @@
+VSDEBUG: main: 1
+VSDEBUG: main: 2
+VSDEBUG: main: 3
+VSDEBUG: main: 4
+VSDEBUG: main: 5
+VSDEBUG: main: 6
+2022/02/15 17:45:05 - - - - - - - - - - - - - - -
+2022/02/15 17:45:05 daemon started
+2022/02/15 17:45:05 VSDEBUG: worker is working now
+2022/02/15 17:45:06 VSDEBUG: worker is working now
+2022/02/15 17:45:07 VSDEBUG: worker is working now
+2022/02/15 17:45:08 VSDEBUG: worker is working now
+2022/02/15 17:45:09 VSDEBUG: worker is working now
+2022/02/15 17:45:10 VSDEBUG: worker is working now
+2022/02/15 17:45:11 VSDEBUG: worker is working now
+2022/02/15 17:45:12 VSDEBUG: worker is working now
+2022/02/15 17:45:13 VSDEBUG: worker is working now
+2022/02/15 17:45:13 terminating...
+2022/02/15 17:45:14 VSDEBUG: worker catched stop
+2022/02/15 17:45:14 VSDEBUG: done is true
+2022/02/15 17:45:14 VSDEBUG: exiting immediately
+2022/02/15 17:45:14 daemon terminated
+VSDEBUG: main: 1
+VSDEBUG: main: 2
+VSDEBUG: main: 3
+VSDEBUG: main: 4
+VSDEBUG: main: 5
+VSDEBUG: main: 6
+2022/02/15 17:45:24 - - - - - - - - - - - - - - -
+2022/02/15 17:45:24 daemon started
+2022/02/15 17:45:24 VSDEBUG: worker is working now
+2022/02/15 17:45:25 VSDEBUG: worker is working now
+2022/02/15 17:45:26 VSDEBUG: worker is working now
+2022/02/15 17:45:27 VSDEBUG: worker is working now
+2022/02/15 17:45:28 VSDEBUG: worker is working now
+2022/02/15 17:45:29 VSDEBUG: worker is working now
+2022/02/15 17:45:29 terminating...
+2022/02/15 17:45:30 VSDEBUG: worker catched stop
+2022/02/15 17:45:30 VSDEBUG: exiting immediately
+2022/02/15 17:45:30 daemon terminated
+VSDEBUG: main: 1
+VSDEBUG: main: 2
+VSDEBUG: main: 3
+VSDEBUG: main: 4
+VSDEBUG: main: 5
+VSDEBUG: main: 6
+2022/02/16 19:49:31 - - - - - - - - - - - - - - -
+2022/02/16 19:49:31 daemon started
+2022/02/16 19:49:31 VSDEBUG: worker is working now
+2022/02/16 19:49:32 VSDEBUG: worker is working now
+2022/02/16 19:49:33 VSDEBUG: worker is working now
+2022/02/16 19:49:34 VSDEBUG: worker is working now
+2022/02/16 19:49:35 VSDEBUG: worker is working now
+2022/02/16 19:49:36 VSDEBUG: worker is working now
+2022/02/16 19:49:36 terminating...
+2022/02/16 19:49:37 VSDEBUG: worker catched stop
+2022/02/16 19:49:37 CALLBACK called
+2022/02/16 19:49:37 VSDEBUG: done is true
+2022/02/16 19:49:37 VSDEBUG: exiting immediately
+2022/02/16 19:49:37 daemon terminated
+VSDEBUG: main: 1
+VSDEBUG: main: 2
+VSDEBUG: main: 3
+VSDEBUG: main: 4
+VSDEBUG: main: 5
+VSDEBUG: main: 6
+2022/02/18 17:32:36 - - - - - - - - - - - - - - -
+2022/02/18 17:32:36 daemon started
+2022/02/18 17:32:36 VSDEBUG: worker is working now
+2022/02/18 17:32:37 VSDEBUG: worker is working now
+2022/02/18 17:32:38 VSDEBUG: worker is working now
+2022/02/18 17:32:39 VSDEBUG: worker is working now
+2022/02/18 17:32:40 VSDEBUG: worker is working now
+2022/02/18 17:32:41 VSDEBUG: worker is working now
+2022/02/18 17:32:42 VSDEBUG: worker is working now
+2022/02/18 17:32:43 VSDEBUG: worker is working now
+2022/02/18 17:32:44 VSDEBUG: worker is working now
+2022/02/18 17:32:45 VSDEBUG: worker is working now
+2022/02/18 17:32:46 VSDEBUG: worker is working now
+2022/02/18 17:32:47 VSDEBUG: worker is working now
+2022/02/18 17:32:48 VSDEBUG: worker is working now
+2022/02/18 17:32:49 VSDEBUG: worker is working now
+2022/02/18 17:32:50 VSDEBUG: worker is working now
+2022/02/18 17:32:51 VSDEBUG: worker is working now
+2022/02/18 17:32:52 VSDEBUG: worker is working now
+2022/02/18 17:32:53 VSDEBUG: worker is working now
+2022/02/18 17:32:54 VSDEBUG: worker is working now
+2022/02/18 17:32:55 VSDEBUG: worker is working now
+2022/02/18 17:32:56 VSDEBUG: worker is working now
+2022/02/18 17:32:57 VSDEBUG: worker is working now
+2022/02/18 17:32:58 VSDEBUG: worker is working now
+2022/02/18 17:32:59 VSDEBUG: worker is working now
+2022/02/18 17:33:00 VSDEBUG: worker is working now
+2022/02/18 17:33:01 VSDEBUG: worker is working now
+2022/02/18 17:33:02 VSDEBUG: worker is working now
+2022/02/18 17:33:03 VSDEBUG: worker is working now
+2022/02/18 17:33:04 VSDEBUG: worker is working now
+2022/02/18 17:33:05 VSDEBUG: worker is working now
+2022/02/18 17:33:06 VSDEBUG: worker is working now
+2022/02/18 17:33:07 VSDEBUG: worker is working now
+2022/02/18 17:33:07 terminating...
+2022/02/18 17:33:08 VSDEBUG: worker catched stop
+2022/02/18 17:33:08 VSDEBUG: done is true
+2022/02/18 17:33:08 VSDEBUG: exiting immediately
+2022/02/18 17:33:08 CALLBACK called
+2022/02/18 17:33:08 daemon terminated
+VSDEBUG: main: 1
+VSDEBUG: main: 2
+VSDEBUG: main: 3
+VSDEBUG: main: 4
+VSDEBUG: main: 5
+VSDEBUG: main: 6
+2022/02/18 17:33:11 - - - - - - - - - - - - - - -
+2022/02/18 17:33:11 daemon started
+2022/02/18 17:33:11 VSDEBUG: worker is working now
+2022/02/18 17:33:12 VSDEBUG: worker is working now
+2022/02/18 17:33:13 VSDEBUG: worker is working now
+2022/02/18 17:33:14 VSDEBUG: worker is working now
+2022/02/18 17:33:15 VSDEBUG: worker is working now
+2022/02/18 17:33:16 VSDEBUG: worker is working now
+2022/02/18 17:33:17 VSDEBUG: worker is working now
+2022/02/18 17:33:18 VSDEBUG: worker is working now
+2022/02/18 17:33:19 VSDEBUG: worker is working now
+2022/02/18 17:33:20 VSDEBUG: worker is working now
+2022/02/18 17:33:21 VSDEBUG: worker is working now
+2022/02/18 17:33:22 VSDEBUG: worker is working now
+2022/02/18 17:33:23 VSDEBUG: worker is working now
+2022/02/18 17:33:24 VSDEBUG: worker is working now
+2022/02/18 17:33:25 VSDEBUG: worker is working now
+2022/02/18 17:33:26 VSDEBUG: worker is working now
+2022/02/18 17:33:27 VSDEBUG: worker is working now
+2022/02/18 17:33:28 VSDEBUG: worker is working now
+2022/02/18 17:33:29 VSDEBUG: worker is working now
+2022/02/18 17:33:30 VSDEBUG: worker is working now
+2022/02/18 17:33:31 VSDEBUG: worker is working now
+2022/02/18 17:33:32 VSDEBUG: worker is working now
+2022/02/18 17:33:33 VSDEBUG: worker is working now
+2022/02/18 17:33:34 VSDEBUG: worker is working now
+2022/02/18 17:33:35 VSDEBUG: worker is working now
+2022/02/18 17:33:36 VSDEBUG: worker is working now
+2022/02/18 17:33:37 VSDEBUG: worker is working now
+2022/02/18 17:33:38 VSDEBUG: worker is working now
+2022/02/18 17:33:39 VSDEBUG: worker is working now
+2022/02/18 17:33:40 VSDEBUG: worker is working now
+2022/02/18 17:33:41 VSDEBUG: worker is working now
+2022/02/18 17:33:42 VSDEBUG: worker is working now
+2022/02/18 17:33:43 VSDEBUG: worker is working now
+2022/02/18 17:33:44 terminating...
+2022/02/18 17:33:44 VSDEBUG: worker catched stop
+2022/02/18 17:33:44 CALLBACK called
+2022/02/18 17:33:44 VSDEBUG: done is true
+2022/02/18 17:33:44 VSDEBUG: exiting immediately
+2022/02/18 17:33:44 daemon terminated
+VSDEBUG: main: 1
+VSDEBUG: main: 2
+VSDEBUG: main: 3
+VSDEBUG: main: 4
+VSDEBUG: main: 5
+VSDEBUG: main: 6
+2022/02/18 17:33:51 - - - - - - - - - - - - - - -
+2022/02/18 17:33:51 daemon started
+2022/02/18 17:33:51 VSDEBUG: worker is working now
+2022/02/18 17:33:52 VSDEBUG: worker is working now
+anon goroutine cycle
+2022/02/18 17:33:53 VSDEBUG: worker is working now
+anon goroutine cycle
+anon goroutine cycle
+2022/02/18 17:33:54 VSDEBUG: worker is working now
+2022/02/18 17:33:55 VSDEBUG: worker is working now
+anon goroutine cycle
+anon goroutine cycle
+2022/02/18 17:33:56 VSDEBUG: worker is working now
+anon goroutine cycle
+2022/02/18 17:33:57 VSDEBUG: worker is working now
+2022/02/18 17:33:58 VSDEBUG: worker is working now
+anon goroutine cycle
+2022/02/18 17:33:59 VSDEBUG: worker is working now
+anon goroutine cycle
+anon goroutine cycle
+2022/02/18 17:34:00 VSDEBUG: worker is working now
+2022/02/18 17:34:00 terminating...
+2022/02/18 17:34:01 VSDEBUG: worker catched stop
+anon goroutine cycle
+2022/02/18 17:34:01 VSDEBUG: done is true
+2022/02/18 17:34:01 VSDEBUG: exiting immediately
+2022/02/18 17:34:01 CALLBACK called
+2022/02/18 17:34:01 daemon terminated
